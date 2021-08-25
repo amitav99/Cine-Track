@@ -7,8 +7,10 @@
   --secondary-color: blue;
 }
 background{
+  box-sizing: border-box;
   
 }
 --primary-color{
-  
+  color: red;
+
 }
