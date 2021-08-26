@@ -8,9 +8,11 @@
 }
 background{
   box-sizing: border-box;
+
   
 }
 --primary-color{
   color: red;
+  padding : 1px solid red;
 
 }
