@@ -19,5 +19,6 @@ background{
 }
 --secondary-color{
   color: red;
+  padding : 1px solid red;
   
 }
